@@ -1,3 +1,0 @@
-# Ejercicios
-
-Jose Manuel Zuñiga
