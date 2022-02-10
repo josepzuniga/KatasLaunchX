@@ -12,7 +12,7 @@ pruebaLaunchX/blob/main/capturas-Modulo2/entornovirtual.png
 - Esto nos muestra que se activo y solo se instalaran librerias dentro del proyecto y no en todo el equipo
 
 - Ejecutamos el siguiente comando en CMD para instalar en el proyecto: pip install python-dateutil
-pruebaLaunchX/blob/main/capturas-Modulo2/dateutil.png
+https://github.com/josepzuniga/pruebaLaunchX/blob/main/capturas-Modulo2/dateutil.png
 
 - Se crea la siguiente carpeta dentro de "env"
 pruebaLaunchX/blob/main/capturas-Modulo2/include.JPG
